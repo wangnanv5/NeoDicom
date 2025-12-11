@@ -39,3 +39,7 @@
 
 # debug information files
 *.dwo
+
+*.onnx
+*.pth
+*.pt
